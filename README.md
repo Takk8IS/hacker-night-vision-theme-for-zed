@@ -1,6 +1,6 @@
 # Hacker Night Vision Theme for Zed
 
-The "Hacker Night Vision" theme brings a sleek, monochromatic aesthetic to your Zed editor. This theme offers a unique and immersive visual experience, designed for those who appreciate a clean, focused coding environment. Available in both dark and light versions, the Hacker Night Vision Theme transforms your workspace with its distinct black-and-white color scheme.
+The "Hacker Night Vision" theme brings a sleek, monochromatic aesthetic to your Zed editor. This theme offers a unique and immersive visual experience, designed for those who appreciate a clean, focused coding environment. Inspired by the covert aesthetics of secret agency operating systems, the Hacker Night Vision Theme is available in both dark and light versions, transforming your workspace with its distinct black-and-white color scheme.
 
 ## Theme Variants
 
@@ -14,9 +14,21 @@ The theme includes two primary variants:
 
 ![Hacker Night Vision Light](https://github.com/Takk8IS/hacker-night-vision-theme-for-zed/blob/main/assets/screenshot-light.png?raw=true)
 
+### Hacker Night Vision Dark Force
+
+![Hacker Night Vision Dark Force](https://github.com/Takk8IS/hacker-night-vision-theme-for-zed/blob/main/assets/screenshot-force.png?raw=true)
+
+### Hacker Night Vision Dark Blackops
+
+![Hacker Night Vision Light](https://github.com/Takk8IS/hacker-night-vision-theme-for-zed/blob/main/assets/screenshot-blackops.png?raw=true)
+
+### Hacker Night Vision Dark Operator
+
+![Hacker Night Vision Light](https://github.com/Takk8IS/hacker-night-vision-theme-for-zed/blob/main/assets/screenshot-operator.png?raw=true)
+
 ## Theme Overview
 
-The "Hacker Night Vision" is designed to provide a clean and focused coding experience. The dark version features a vibrant black background with greyscale text, creating a stark contrast that's easy on the eyes. The light version inverts this palette, offering a bright background with dark text for those who prefer a lighter aesthetic. Both versions maintain a consistent monochromatic scheme that enhances readability and reduces distractions during long coding sessions.
+The "Hacker Night Vision" is designed to provide a clean and focused coding experience. Inspired by the sleek and covert aesthetics of secret agency operating systems, this theme brings a sense of mystery and sophistication to your workspace. The dark version features a vibrant black background with greyscale text, creating a stark contrast that's easy on the eyes. The light version inverts this palette, offering a bright background with dark text for those who prefer a lighter aesthetic. Both versions maintain a consistent monochromatic scheme that enhances readability and reduces distractions during long coding sessions.
 
 ### Installation Instructions
 
@@ -55,20 +67,6 @@ The "Hacker Night Vision" is designed to provide a clean and focused coding expe
 -   **Syntax Highlighting**: Enhanced visibility with darker grey text for keywords, strings, and other elements.
 
 Both versions of the theme ensure a cohesive and focused experience, making your coding environment visually appealing and distraction-free.
-
-## Color Palette
-
-### Dark Theme
-
--   **Background**: #000000 (Pure Black)
--   **Text**: Varying shades of grey (#ffffff to #f5f5f7)
--   **Highlights**: #8f8e93 (Light Grey)
-
-### Light Theme
-
--   **Background**: #ffffff (Pure White)
--   **Text**: Varying shades of grey (#000000 to #1c1c1e)
--   **Highlights**: #87868b (Dark Grey)
 
 ## Support
 
