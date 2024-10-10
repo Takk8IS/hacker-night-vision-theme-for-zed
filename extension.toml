@@ -1,7 +1,7 @@
 authors = ["David C Cavalcante <davcavalcante@proton.me>","Takk™ Innovate Studio <say@takk.ag>"]
-description = "📺 A monochromatic theme featuring a vibrant black background with greyscale text in the Dark version, whilst the Light version inverts this palette for effective contrast."
+description = "📺 A monochromatic theme with a vibrant palette for effective contrast. Inspired by secret agency operating systems, this theme adds a touch of espionage to your coding environment."
 id = "hacker-night-vision"
 name = "Hacker Night Vision Theme"
 repository = "https://github.com/takk8is/hacker-night-vision-theme-for-zed"
 schema_version = 1
-version = "1.0.0"
+version = "2.0.0"
