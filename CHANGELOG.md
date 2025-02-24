@@ -1,10 +1,14 @@
 # Change Log
 
+## [2.0.1] - 2025-02-24
+
+- Change deprecated scrollbar_thumb.background style property to scrollbar.thumb.background.
+
 ## [2.0.0] - 2024-10-10
 
--   Added new colour themes inspired by secret agency operating systems.
+- Added new colour themes inspired by secret agency operating systems.
 
 ## [1.0.0] - 2024-09-13
 
--   Conception of the "Hacker Night Vision Theme", establishing a new aesthetic standard for dark and light modes.
--   Initial design and structuring of the theme inspired by the phosphor colours of early CRT monitors, capturing the hacker essence.
+- Conception of the "Hacker Night Vision Theme", establishing a new aesthetic standard for dark and light modes.
+- Initial design and structuring of the theme inspired by the phosphor colours of early CRT monitors, capturing the hacker essence.
